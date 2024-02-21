@@ -1,0 +1,15 @@
+2012-01-01      09:03   Virginia Beach  Cameras 271.56  Discover
+2012-01-01      09:03   Omaha   Children's Clothing     387.75  Visa
+2012-01-01      09:03   Tucson  Health and Beauty       367.76  Visa
+2012-01-01      09:03   Washington      Books   392.81  Discover
+2012-01-01      09:03   Greensboro      Garden  11.96   MasterCard
+2012-01-01      09:03   Tulsa   Crafts  20.07   Discover
+2012-01-01      09:03   Charlotte       DVDs    440.11  Visa
+2012-01-01      09:03   Austin  Crafts  127.8   Discover
+2012-01-01      09:03   Albuquerque     Pet Supplies    440.7   Cash
+2012-01-01      09:03   Santa Ana       Video Games     294.98  Cash
+2012-01-01      09:03   Milwaukee       Men's Clothing  418.91  Discover
+2012-01-01      09:03   Jacksonville    Computers       359.65  MasterCard
+2012-01-01      09:04   Phoenix Sporting Goods  371.21  Visa
+2012-01-01      09:04   Anchorage       Health and Beauty       368.42  MasterCard
+
